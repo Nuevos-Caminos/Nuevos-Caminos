@@ -1,4 +1,35 @@
 @charset "UTF-8";
+#espaco{
+	padding-top: 20px;
+}
+
+#regras{
+	float: right;
+	height: 200px;
+	width: 200px;
+	padding-left: 10px;
+}
+
+#normas{
+	height: 60px; 
+	padding-bottom: 35px;
+	padding-top: 40px;
+}
+
+#ajudar{
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+#inscreva{
+	font-size:28px;
+	background-color: #01b3a7;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+
 #agua{
 	height: 148px;
 	width: 200px;
