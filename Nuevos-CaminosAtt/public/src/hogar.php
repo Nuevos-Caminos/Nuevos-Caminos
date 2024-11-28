@@ -71,7 +71,7 @@
 
             <div class="card" id="sebrae">
               <a href="https://migramundo.com/conheca-alguns-dos-principais-bairros-imigrantes-de-sao-paulo/" target="_blank">
-                <img src="imageshogar/bairros.jpg" height="200px" width="200px"></a>
+                <img src="imageshogar/bairros.jpg" id="agua"></a>
               <p class="title" id="sebrae1">Conozca los principales barrios elegidos habitualmente por los inmigrantes en São Paulo.</h6>
             </div>
             <div class="card" id="sebrae">
